@@ -13,7 +13,7 @@ spatio_temporal_cols = ['time', 'latitude', 'longitude']
 
 # define special column types, other will be processed as plain text.
 special_column_types = {
-    'room_beds': 'json',
+    'roomBeds': 'json',
     'photos': 'json'
 }
 
