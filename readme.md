@@ -6,7 +6,7 @@
 
 1. 将脚本clone到本地
 
-    找一个干净的目录，然后在终端执行`git clone https://github.com/MarkLux/csv2xml4AJ.git`，把脚本clone到本地
+    找一个干净的目录，然后在终端执行`git clone https://github.com/MarkLux/csv2xml.git`，把脚本clone到本地
 
 2. 准备csv文件
 
@@ -30,7 +30,7 @@
 
 4. fire!
 
-    移动到脚本目录下(`cd csv2xml4AJ`)，然后执行下面的命令运行脚本:
+    移动到脚本目录下(`cd csv2xml`)，然后执行下面的命令运行脚本:
 
     ```
     python transfer.py [csv文件名称]
